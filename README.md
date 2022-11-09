@@ -36,3 +36,9 @@ python main.py
 # Features / Queries
 Project features and queries are being tracked [here](https://github.com/).
 # Sales-Management-System-Project-using-Python
+
+![Screenshot](Screenshots/Screenshot1.png)
+
+![Screenshot](Screenshots/Screenshot2.png)
+
+![Screenshot](Screenshots/Screenshot3.png)
